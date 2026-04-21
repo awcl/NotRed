@@ -1,0 +1,16 @@
+{
+  "name": "notred",
+  "short_name": "notred",
+  "description": "Offline blue team reference tool",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101014",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect rx='20' width='100' height='100' fill='%23f59e0b'/><text x='95' y='95' text-anchor='end' font-size='72' font-weight='bold' fill='%23111'>nr</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

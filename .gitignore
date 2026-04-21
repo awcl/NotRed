@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Whitelist
+!.gitignore
+!404.html
+!index.html
+!README.md
+!LICENSE
+!site.webmanifest
+!CNAME
